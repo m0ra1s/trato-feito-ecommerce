@@ -1,6 +1,6 @@
 # Gold & Silver Pawn Shop - E-commerce
 
-Projeto acadêmico desenvolvido em equipe para a disciplina de Engenharia de Software I, com o objetivo de realizar a modelagem de um sistema de e-commerce para a empresa “Gold & Silver Pawn Shop” (Loja do Trato Feito), escolhida pelos integrantes e validada pelo professor. A empresa utilizada como referência já existe e foi selecionada para fins acadêmicos de análise, levantamento de requisitos e elaboração das propostas do sistema.
+Projeto acadêmico desenvolvido em equipe para a disciplina de Engenharia de Software I, com o objetivo de realizar a modelagem de um sistema de e-commerce para a empresa “Gold & Silver Pawn Shop” (Loja do Trato Feito), escolhida pelos integrantes e validada pelo professor. A empresa utilizada como referência já existe e foi selecionada para fins acadêmicos.
 O projeto contempla as etapas de levantamento de requisitos, prototipação de interface, gestão de configuração de software, métricas, SCRUM e testes.
 
 ## Tecnologias e Ferramentas
