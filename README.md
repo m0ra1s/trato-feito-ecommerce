@@ -1,6 +1,6 @@
-# Trato Feito - E-commerce
+# Gold & Silver Pawn Shop - E-commerce
 
-Projeto acadêmico desenvolvido para a disciplina de Engenharia de Software com o objetivo de modelar um sistema de e-commerce para a empresa "Trato Feito".
+Projeto acadêmico desenvolvido para a disciplina de Engenharia de Software com o objetivo de modelar um sistema de e-commerce para a empresa "Gold & Silver Pawn Shop" (Loja do Trato Feito).
 O projeto contempla as etapas de levantamento de requisitos, prototipação de interface, gestão de configuração de software, métricas, SCRUM e testes.
 
 ## Tecnologias e Ferramentas
